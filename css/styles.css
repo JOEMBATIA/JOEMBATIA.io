@@ -1,0 +1,11 @@
+/* Custom styles for the portfolio */
+
+.about-bg {
+    background-image: url('../images/bg.jpg'); /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
